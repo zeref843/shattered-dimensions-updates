@@ -4,9 +4,13 @@
 
 ## Versions
 
-### Version 1.1.1, 22 November 2026
+### Version 1.1.2, 22 November 2026
 
-**If you have 1.0.0 or 1.1.0 installed, please download this version once from the [Download page](docs/download.md) and install it over your current version.** Those versions find new updates but cannot show the offer on screen, so your game will not tell you about this one. Your saves are kept: they live in your user folder, not in the game folder. From 1.1.1 on, every update is offered on screen.
+**On 1.1.1:** your game offers this update with the notice at the top of the file list. **On 1.0.0 or 1.1.0:** please download it once from the [Download page](docs/download.md) and install it over your current version; those versions cannot show the offer. Your saves are kept: they live in your user folder, not in the game folder.
+
+- **The game checks for updates every time it starts,** instead of at most once a day, so a new version is offered as soon as you open the game. Turning "Check for updates" off still stops it.
+
+### Version 1.1.1, 22 November 2026
 
 - **The update offer is now on screen, always.** A gold-framed notice at the top right of the file list shows when a new version is available. Press Select or click it to download, then again to close the game and install (your saves are kept). It is tested at ten window shapes, from 640x480 to ultrawide and full screen, and no version can be released unless that test passes.
 - **The energy gauge appears at the right moment:** it stays hidden until Ravio hands Link the Bow, as in the original game.
