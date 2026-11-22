@@ -4,6 +4,12 @@
 
 ## Versions
 
+### Version 1.1.1, 22 November 2026
+
+**If you have 1.0.0 or 1.1.0 installed, please download this version once from the [Download page](docs/download.md) and install it over your current version.** Those versions find new updates but cannot show the offer on screen, so your game will not tell you about this one. Your saves are kept: they live in your user folder, not in the game folder. From 1.1.1 on, every update is offered on screen.
+
+- **The update offer is now on screen, always.** A gold-framed notice at the top right of the file list shows when a new version is available. Press Select or click it to download, then again to close the game and install (your saves are kept). It is tested at ten window shapes, from 640x480 to ultrawide and full screen, and no version can be released unless that test passes.
+
 ### Version 1.1.0, 22 November 2026
 
 Get it from the [Download page](docs/download.md); if you already have Shattered Dimensions installed, your game offers this update on its start screen, and your saves are kept and backed up.
