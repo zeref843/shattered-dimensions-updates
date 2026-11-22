@@ -4,6 +4,13 @@
 
 ## Versions
 
+### Version 1.1.0, 22 November 2026
+
+Get it from the [Download page](docs/download.md); if you already have Shattered Dimensions installed, your game offers this update on its start screen, and your saves are kept and backed up.
+
+- **The energy gauge appears at the right moment.** In 1.0 the gauge under the hearts showed from the first walk out of Link's house. It now stays hidden until Ravio hands Link the Bow, as in the original game, and fades in as the game's own gauge does. Your saves follow the game's own progress: a save from before the Bow shows no gauge, a save after it shows the gauge as before.
+- **Licence 1.1:** the copyright holder is now named as Zeref843 (WeaverLume Studios), and the ownership wording is clearer. The other terms are unchanged.
+
 ### Version 1.0.0, 22 November 2026
 
 The first public release of Shattered Dimensions for Windows. Get it from the [Download page](docs/download.md); if you already have it installed, your game offers updates on its start screen.

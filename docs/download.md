@@ -54,7 +54,7 @@ When a new version is out, the game offers it on its start screen (you can turn 
 Each release lists the SHA-256 checksum of its zip file. To check yours, open PowerShell in the folder with the download and run:
 
 ```
-Get-FileHash .\ShatteredDimensions-1.0.0-Windows.zip -Algorithm SHA256
+Get-FileHash .\ShatteredDimensions-1.1.0-Windows.zip -Algorithm SHA256
 ```
 
 The value must match the one on the release page exactly. If it does not, delete the file and download it again from this page.
