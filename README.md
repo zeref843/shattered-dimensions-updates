@@ -10,10 +10,10 @@ Shattered Dimensions is an unofficial, native Windows PC engine that runs The Le
 
 ## Download
 
-Version 1.0 has not been released yet. When it is, it is published on the [Releases page](https://github.com/zeref843/shattered-dimensions-updates/releases) of this repository, as one zip file with its SHA-256 checksum, and on [shattereddimensions.com](https://shattereddimensions.com).
+Download the latest version from [the latest release](https://github.com/zeref843/shattered-dimensions-updates/releases/latest) of this repository (one zip file with its SHA-256 checksum) or from [shattereddimensions.com](https://shattereddimensions.com).
 Only download Shattered Dimensions from those two places: copies from anywhere else are not ours, are not signed, and will not receive updates. What you need, and how to install it: [the download guide](docs/download.md).
 
-## What version 1.0 includes
+## What Shattered Dimensions includes
 
 - **A native Windows engine** that runs the game from your own cartridge dump, translated and built on your PC by the setup.
 - **High resolutions,** up to 6 times the original inside the game, in a window, borderless or full screen, at 60 frames a second or matched to your screen.

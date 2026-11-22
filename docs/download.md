@@ -4,7 +4,7 @@
 
 ## The latest version
 
-Version 1.0 has not been released yet. When it is, it is published on the [Releases page](https://github.com/zeref843/shattered-dimensions-updates/releases) of this repository, as one zip file with its SHA-256 checksum, and on [shattereddimensions.com](https://shattereddimensions.com).
+Download the latest version from [the latest release](https://github.com/zeref843/shattered-dimensions-updates/releases/latest) of this repository (one zip file with its SHA-256 checksum) or from [shattereddimensions.com](https://shattereddimensions.com).
 
 Shattered Dimensions is free. The download is one zip file published on our official GitHub release page, with its SHA-256 checksum beside it. Only download it from this page or from that release page: copies from anywhere else are not ours, are not signed, and will not receive updates.
 
@@ -54,7 +54,7 @@ When a new version is out, the game offers it on its start screen (you can turn 
 Each release lists the SHA-256 checksum of its zip file. To check yours, open PowerShell in the folder with the download and run:
 
 ```
-Get-FileHash .\ShatteredDimensions-1.1.1-Windows.zip -Algorithm SHA256
+Get-FileHash .\ShatteredDimensions-*-Windows.zip -Algorithm SHA256
 ```
 
 The value must match the one on the release page exactly. If it does not, delete the file and download it again from this page.
