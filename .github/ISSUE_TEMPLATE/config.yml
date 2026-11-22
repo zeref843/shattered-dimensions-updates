@@ -1,0 +1,9 @@
+# For the public repository zeref843/shattered-dimensions-updates (.github/ISSUE_TEMPLATE/), added by the owner.
+blank_issues_enabled: true
+contact_links:
+  - name: Read the handbook first
+    url: https://shattereddimensions.com/handbook/troubleshooting.html
+    about: Fixes for setup, graphics, sound, controller and save problems.
+  - name: Use the guided support helper
+    url: https://shattereddimensions.com/support.html
+    about: It suggests fixes and fills in a report for you.

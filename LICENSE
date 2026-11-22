@@ -1,0 +1,77 @@
+SHATTERED DIMENSIONS - FREEWARE LICENCE (version 1.0)
+
+DRAFT FOR LEGAL REVIEW. This text was written by the project team, not by a lawyer.
+
+Copyright (c) 2026 The Shattered Dimensions team. All rights reserved.
+
+Shattered Dimensions ("the Software") is the release download made by the Shattered Dimensions team: the setup
+program, the translator, the engine and the other files we wrote, and the game the setup builds from them on your
+computer. Files from other people that come with the Software are listed under "Other people's work" below.
+
+1. WHAT YOU MAY DO
+
+   You may download the Software free of charge and install and use it on your own computers, for your own
+   personal, non-commercial use.
+
+   You may make texture packs and other modifications through the formats we document (the texture pack guide),
+   and share your own work. You keep the rights to what you create. Sharing must not include any of the Software's
+   own files or anything from the game listed in section 3.
+
+2. WHAT YOU MAY NOT DO
+
+   Unless the Shattered Dimensions team allows it in writing, you may not:
+   a. sell, rent or charge for the Software, or include it in anything that is sold;
+   b. share, re-host or redistribute the Software or any part of it, changed or unchanged. Point people to the
+      official download instead (the Shattered Dimensions website and its GitHub release page). This protects
+      players: only official copies are signed and receive updates;
+   c. remove or change this licence, the credits or the notices that come with the Software;
+   d. present the Software, or a changed copy, as your own work.
+
+   Section 2 does not limit any right that the law gives you and that cannot be taken away by a licence.
+
+3. THE GAME IS YOURS TO SUPPLY
+
+   The Software contains no game data and no game code. It works only with a decrypted copy of your own cartridge
+   of The Legend of Zelda: A Link Between Worlds (USA), which you must obtain lawfully. Never distribute the Software
+   together with any game files, keys or anything taken from the game, and never use it with a copy you do not own.
+
+4. WHAT IS OURS AND WHAT IS NOT
+
+   Everything in the Software was made by the Shattered Dimensions team and belongs to us, except the files listed
+   under "Other people's work" below. This includes the engine, the setup program, the translator, the tools, the
+   interface, and all of the Software's artwork and text, its icon artwork included.
+
+   The only thing that is not ours is the game: The Legend of Zelda: A Link Between Worlds, with its code, data,
+   music and art, and its characters, names and symbols (among them Link and the Triforce), wherever they appear,
+   including in our own artwork. These belong to Nintendo. The Software contains none of the game's files; you supply
+   the game yourself (section 3).
+
+5. NOT AFFILIATED WITH NINTENDO
+
+   Shattered Dimensions is an unofficial project. It is not made, endorsed or supported by Nintendo or any company
+   connected with it. Nintendo, The Legend of Zelda and A Link Between Worlds are trademarks of their owners and are
+   named only to say which game the Software works with, and appear in our artwork as fan art of that game.
+
+6. OTHER PEOPLE'S WORK
+
+   Some files that come with the Software belong to others and are provided under their own licences, which this
+   licence does not change: among them Dear ImGui, CityHash, stb, the compiler toolchain from MSYS2 (GCC and binutils
+   under the GNU GPL, with the source available as described in TOOLCHAIN.txt), NVIDIA Streamline, the upscaling
+   models, the fonts and the textures. Their licences and notices are in the licenses folder. Our thanks go to World
+   Across by PaceTea, whose research helped this project, as the credits describe.
+
+7. NO WARRANTY
+
+   The Software is provided "as is", without warranty of any kind, express or implied, including fitness for a
+   particular purpose. Back up your saves. To the extent the law allows, the Shattered Dimensions team is not liable
+   for any damage or loss arising from the Software or its use.
+
+8. ENDING
+
+   This licence ends automatically if you break it. You must then stop using the Software and delete your copies.
+
+9. CHANGES
+
+   Later versions of the Software may come with a newer version of this licence, which then applies to them.
+
+[Governing law and a contact address: to be completed after legal review.]

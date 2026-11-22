@@ -1,0 +1,38 @@
+name: Report a problem
+description: Something does not work as it should in Shattered Dimensions.
+labels: ["player report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **This report is public.** Do not include your name, email address, files from your PC, or anything personal.
+        Never attach game files, dumps or keys. The [support helper](https://shattereddimensions.com/support.html) can fill this in for you.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of problem
+      options: [Installing, Crashes, Graphics, Performance, Controllers, Sound, Saves, Gameplay, Something else]
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we make it happen again?
+  - type: input
+    id: version
+    attributes:
+      label: Shattered Dimensions version
+  - type: input
+    id: system
+    attributes:
+      label: Windows version and graphics card
+  - type: input
+    id: settings
+    attributes:
+      label: Graphics preset and controller (if any)
