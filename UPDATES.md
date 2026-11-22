@@ -4,9 +4,9 @@
 
 ## Versions
 
-### Version 1.0, coming soon
+### Version 1.0.0, 22 November 2026
 
-The first public release of Shattered Dimensions for Windows. It has not been released yet; when it is, its date, download and full notes appear here and on the [Download page](docs/download.md).
+The first public release of Shattered Dimensions for Windows. Get it from the [Download page](docs/download.md); if you already have it installed, your game offers updates on its start screen.
 
 What version 1.0 includes:
 
