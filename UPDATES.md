@@ -9,31 +9,8 @@
 **If you have 1.0.0 or 1.1.0 installed, please download this version once from the [Download page](docs/download.md) and install it over your current version.** Those versions find new updates but cannot show the offer on screen, so your game will not tell you about this one. Your saves are kept: they live in your user folder, not in the game folder. From 1.1.1 on, every update is offered on screen.
 
 - **The update offer is now on screen, always.** A gold-framed notice at the top right of the file list shows when a new version is available. Press Select or click it to download, then again to close the game and install (your saves are kept). It is tested at ten window shapes, from 640x480 to ultrawide and full screen, and no version can be released unless that test passes.
-
-### Version 1.1.0, 22 November 2026
-
-Get it from the [Download page](docs/download.md); if you already have Shattered Dimensions installed, your game offers this update on its start screen, and your saves are kept and backed up.
-
-- **The energy gauge appears at the right moment.** In 1.0 the gauge under the hearts showed from the first walk out of Link's house. It now stays hidden until Ravio hands Link the Bow, as in the original game, and fades in as the game's own gauge does. Your saves follow the game's own progress: a save from before the Bow shows no gauge, a save after it shows the gauge as before.
-- **Licence 1.1:** the copyright holder is now named as Zeref843 (WeaverLume Studios), and the ownership wording is clearer. The other terms are unchanged.
-
-### Version 1.0.0, 22 November 2026
-
-The first public release of Shattered Dimensions for Windows. Get it from the [Download page](docs/download.md); if you already have it installed, your game offers updates on its start screen.
-
-What version 1.0 includes:
-
-- **A native Windows engine** that runs the game from your own cartridge dump, translated and built on your PC by the setup.
-- **High resolutions,** up to 6 times the original inside the game, in a window, borderless or full screen, at 60 frames a second or matched to your screen.
-- **Widescreen 16:9** that shows more of the world, or the original 5:3.
-- **One screen:** the live minimap in a corner, the map, Items and Gear as panels, the hearts, rupees and energy gauge rearranged for one screen.
-- **Choosing items your way:** hold a button, a radial wheel, or the classic window.
-- **Keyboard, mouse and controllers,** fully remappable, with on-screen buttons that follow the device you use.
-- **HD and 4K textures** from our own upscaler, and a sharp map and menus at any resolution.
-- **Texture packs,** including packs made for 3DS emulators, and packs that restyle the new interface.
-- **Ray-traced shadows** and **DLSS Frame Generation** on graphics cards that support them.
-- **Safe saves:** written completely or not at all, kept and backed up through every update.
-- **Signed updates** offered on the start screen.
+- **The energy gauge appears at the right moment:** it stays hidden until Ravio hands Link the Bow, as in the original game.
+- **Licence 1.1:** the copyright holder is named as Zeref843 (WeaverLume Studios).
 
 ## Known issues
 
