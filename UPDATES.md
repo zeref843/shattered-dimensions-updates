@@ -22,11 +22,13 @@ Every version, newest first, with what is new, what was fixed, what changed and 
 - **Changed:** nothing else.
 - **Removed:**
   - the old one-line update offer at the bottom of the file list;
-  - versions 1.0.0 and 1.1.0 were withdrawn from download the same day (22 November 2026, about 19:24 UTC), because they cannot show the update offer. Their changes are part of every later version.
+  - versions 1.0.0 and 1.1.0 were withdrawn from download the same day (22 November 2026, about 19:24 UTC), because their update offer was drawn off the bottom of the screen. They were not bad copies: we missed it while working on everything else, and we want everyone to have the best experience possible. Their changes are part of every later version.
 
 ### Version 1.1.0 (withdrawn), 22 November 2026, 17:13 UTC
 
 No longer available to download; 1.1.2 includes everything below.
+
+**Why it was withdrawn:** this was never a bad copy, and nothing was wrong with the game in it. While we were working on everything else for the release, we missed that its update offer was drawn below the bottom of the screen, so players on it would never see that a new version was out. We took it down so no one could get stuck on a version that cannot tell them about updates: we want everyone to have the best experience possible.
 
 - **New:** nothing.
 - **Fixed:** the energy gauge under the hearts showed from the first walk out of Link's house. It now stays hidden until Ravio hands Link the Bow, as in the original game, and fades in as the game's own gauge does. Existing saves follow the game's own progress.
@@ -36,6 +38,8 @@ No longer available to download; 1.1.2 includes everything below.
 ### Version 1.0.0 (withdrawn), 22 November 2026, 11:56 UTC
 
 The first public release. No longer available to download; 1.1.2 includes everything below.
+
+**Why it was withdrawn:** this was never a bad copy, and nothing was wrong with the game in it. While we were working on everything else for the release, we missed that its update offer was drawn below the bottom of the screen, so players on it would never see that a new version was out. We took it down so no one could get stuck on a version that cannot tell them about updates: we want everyone to have the best experience possible.
 
 - **New:**
   - a native Windows engine that runs the game from your own cartridge dump, translated and built on your PC by the setup;
