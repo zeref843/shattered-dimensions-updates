@@ -4,17 +4,52 @@
 
 ## Versions
 
-### Version 1.1.2, 22 November 2026
+Every version, newest first, with what is new, what was fixed, what changed and what was removed. Times are in UTC, the moment each version was published.
 
-**On 1.1.1:** your game offers this update with the notice at the top of the file list. **On 1.0.0 or 1.1.0:** please download it once from the [Download page](docs/download.md) and install it over your current version; those versions cannot show the offer. Your saves are kept: they live in your user folder, not in the game folder.
+### Version 1.1.2 (latest), 22 November 2026, 20:37 UTC
 
-- **The game checks for updates every time it starts,** instead of at most once a day, so a new version is offered as soon as you open the game. Turning "Check for updates" off still stops it.
+**How to get it:** on 1.1.1, your game offers it with the notice at the top of the file list. On 1.0.0 or 1.1.0, download it once from the [Download page](docs/download.md) and install it over your current version; those versions cannot show the offer. Your saves are kept: they live in your user folder, not in the game folder.
 
-### Version 1.1.1, 22 November 2026
+- **New:** nothing.
+- **Fixed:** a new version could stay hidden for up to a day, because the game asked for updates at most once a day.
+- **Changed:** the game now checks for updates **every time it starts**, in the background, so a new version is offered as soon as you open the game. Turning "Check for updates" off still stops it. The setup's checkbox now reads "Check for updates (when the game starts, from GitHub; nothing about you is sent)".
+- **Removed:** the once-a-day limit on update checks.
 
-- **The update offer is now on screen, always.** A gold-framed notice at the top right of the file list shows when a new version is available. Press Select or click it to download, then again to close the game and install (your saves are kept). It is tested at ten window shapes, from 640x480 to ultrawide and full screen, and no version can be released unless that test passes.
-- **The energy gauge appears at the right moment:** it stays hidden until Ravio hands Link the Bow, as in the original game.
-- **Licence 1.1:** the copyright holder is named as Zeref843 (WeaverLume Studios).
+### Version 1.1.1, 22 November 2026, 19:19 UTC
+
+- **New:** an **update notice that is always on screen**: a gold-framed notice at the top right of the file list. It shows the new version, then the download progress, then "close the game and install it (your saves are kept)", or a failure with "try again". Press Select or click it to act. It is tested at ten window shapes, from 640x480 to ultrawide and full screen, and no version can be released unless that test passes.
+- **Fixed:** in 1.0.0 and 1.1.0 the update offer was drawn below the bottom of the screen, so players never saw it.
+- **Changed:** nothing else.
+- **Removed:**
+  - the old one-line update offer at the bottom of the file list;
+  - versions 1.0.0 and 1.1.0 were withdrawn from download the same day (22 November 2026, about 19:24 UTC), because they cannot show the update offer. Their changes are part of every later version.
+
+### Version 1.1.0 (withdrawn), 22 November 2026, 17:13 UTC
+
+No longer available to download; 1.1.2 includes everything below.
+
+- **New:** nothing.
+- **Fixed:** the energy gauge under the hearts showed from the first walk out of Link's house. It now stays hidden until Ravio hands Link the Bow, as in the original game, and fades in as the game's own gauge does. Existing saves follow the game's own progress.
+- **Changed:** **Licence 1.1**: the copyright holder is named as Zeref843 (WeaverLume Studios), and the ownership wording is clearer. The other terms are unchanged.
+- **Removed:** nothing.
+
+### Version 1.0.0 (withdrawn), 22 November 2026, 11:56 UTC
+
+The first public release. No longer available to download; 1.1.2 includes everything below.
+
+- **New:**
+  - a native Windows engine that runs the game from your own cartridge dump, translated and built on your PC by the setup;
+  - high resolutions, up to 6 times the original, in a window, borderless or full screen, at 60 frames a second or matched to your screen;
+  - widescreen 16:9 that shows more of the world, or the original 5:3;
+  - one screen: the live minimap in a corner, the map, Items and Gear as panels, and the hearts, rupees and energy gauge rearranged for one screen;
+  - choosing items your way: hold a button, a radial wheel, or the classic window;
+  - keyboard, mouse and controllers, fully remappable, with on-screen buttons that follow the device you use;
+  - HD and 4K textures from our own upscaler, and a sharp map and menus at any resolution;
+  - texture packs, including packs made for 3DS emulators and packs that restyle the new interface;
+  - ray-traced shadows and DLSS Frame Generation on graphics cards that support them;
+  - safe saves, written completely or not at all, kept and backed up through every update;
+  - signed updates offered in the game.
+- **Fixed, Changed, Removed:** nothing; this was the first version.
 
 ## Known issues
 
@@ -34,7 +69,8 @@ These are known in the current version. If you meet one, you do not need to repo
 
 | Version | Plan |
 |---|---|
-| 1.0.x | Fixes for anything urgent found after the release, whenever needed. |
+| 1.1.x | Fixes for anything urgent found after the release, whenever needed. |
+| **Android** | **In active development:** Shattered Dimensions as a native Android app, with the same engine, menus, settings and saves as on Windows, plus touch controls and controller support. It runs on our test phone and we are now making it fast and smooth. Not available yet and no release date; it will be announced here first. |
 | **1.5** | **NEXUS Watch** (planned): an optional, off-by-default way to send us reports of crashes and errors (see below), and improvements from players' feedback. |
 | Later | More platforms (each announced here first), and the community features on [Coming soon](COMING_SOON.md). New graphics technologies are being investigated; we will only list them here once they work. |
 

@@ -21,7 +21,7 @@ The full text: [the Shattered Dimensions licence](LICENSE). It also comes with t
 
 ## What is ours and what is not
 
-Everything in Shattered Dimensions was made by the Shattered Dimensions team and belongs to us, except the work of others credited below: the engine, the setup, the translator, the tools, the interface, and all of its artwork and text, the logo and icon artwork included.
+The Shattered Dimensions team made the engine, the setup, the translator, the tools, the interface, and the artwork and text that come with it, the logo and icon artwork included. Those parts are ours to license, under our licence and to the extent the law protects them. The work of others credited below is not ours and keeps its own licence.
 
 The only thing that is not ours is the game: The Legend of Zelda: A Link Between Worlds, with its code, data, music and art, and its characters, names and symbols (among them Link and the Triforce), wherever they appear, including in our own artwork. These belong to Nintendo.
 
