@@ -4,9 +4,9 @@
 
 ## Versions
 
-Every version, newest first, with what is new, what was fixed, what changed and what was removed. Times are in UTC, the moment each version was published.
+Every version, newest first, with what is new, what was fixed, what changed and what was removed. Times are Eastern Standard Time (EST, UTC−5), with UTC in brackets: the moment each version finished publishing on GitHub.
 
-### Version 1.1.2 (latest), 22 November 2026, 8:37 PM UTC
+### Version 1.1.2 (latest), 22 November 2026, 3:37 PM EST (8:37 PM UTC)
 
 **How to get it:** on 1.1.1, your game offers it with the notice at the top of the file list. On 1.0.0 or 1.1.0, download it once from the [Download page](docs/download.md) and install it over your current version; those versions cannot show the offer. Your saves are kept: they live in your user folder, not in the game folder.
 
@@ -15,16 +15,16 @@ Every version, newest first, with what is new, what was fixed, what changed and 
 - **Changed:** the game now checks for updates **every time it starts**, in the background, so a new version is offered as soon as you open the game. Turning "Check for updates" off still stops it. The setup's checkbox now reads "Check for updates (when the game starts, from GitHub; nothing about you is sent)".
 - **Removed:** the once-a-day limit on update checks.
 
-### Version 1.1.1, 22 November 2026, 7:19 PM UTC
+### Version 1.1.1, 22 November 2026, 2:19 PM EST (7:19 PM UTC)
 
 - **New:** an **update notice that is always on screen**: a gold-framed notice at the top right of the file list. It shows the new version, then the download progress, then "close the game and install it (your saves are kept)", or a failure with "try again". Press Select or click it to act. It is tested at ten window shapes, from 640x480 to ultrawide and full screen, and no version can be released unless that test passes.
 - **Fixed:** in 1.0.0 and 1.1.0 the update offer was drawn below the bottom of the screen, so players never saw it.
 - **Changed:** nothing else.
 - **Removed:**
   - the old one-line update offer at the bottom of the file list;
-  - versions 1.0.0 and 1.1.0 were withdrawn from download the same day (22 November 2026, about 7:24 PM UTC), because their update offer was drawn off the bottom of the screen. They were not bad copies: we missed it while working on everything else, and we want everyone to have the best experience possible. Their changes are part of every later version.
+  - versions 1.0.0 and 1.1.0 were withdrawn from download the same day (22 November 2026, 2:23 PM EST, 7:23 PM UTC), because their update offer was drawn off the bottom of the screen. They were not bad copies: we missed it while working on everything else, and we want everyone to have the best experience possible. Their changes are part of every later version.
 
-### Version 1.1.0 (withdrawn), 22 November 2026, 5:13 PM UTC
+### Version 1.1.0 (withdrawn), 22 November 2026, 12:12 PM EST (5:12 PM UTC)
 
 No longer available to download; 1.1.2 includes everything below.
 
@@ -35,7 +35,7 @@ No longer available to download; 1.1.2 includes everything below.
 - **Changed:** **Licence 1.1**: the copyright holder is named as Zeref843 (WeaverLume Studios), and the ownership wording is clearer. The other terms are unchanged.
 - **Removed:** nothing.
 
-### Version 1.0.0 (withdrawn), 22 November 2026, 11:56 AM UTC
+### Version 1.0.0 (withdrawn), 22 November 2026, 6:56 AM EST (11:56 AM UTC)
 
 The first public release. No longer available to download; 1.1.2 includes everything below.
 
